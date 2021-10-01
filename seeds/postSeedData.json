@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "post": "I really like this blog..!!!",
+    "create_date": "9/30/2021",
+    "user_id": 1
+  },
+  {
+    "id": 2,
+    "post": "What a great websit.",
+    "create_date": "9/30/2021",
+    "user_id": 1
+  },
+  {
+    "id": 1,
+    "post": "Nick is so awesome.",
+    "create_date": "9/30/2021",
+    "user_id": 2
+  },
+  {
+    "id": 2,
+    "post": "This site should be baught by Amazon.",
+    "create_date": "9/30/2021",
+    "user_id": 2
+  },
+  {
+    "id": 1,
+    "post": "I like green eggs and ham.",
+    "create_date": "9/30/2021",
+    "user_id": 3
+  },
+  {
+    "id": 2,
+    "post": "How much wood could a woodchuck chuck if a woodchuck could chuck wood?",
+    "create_date": "9/30/2021",
+    "user_id": 3
+  }
+]
